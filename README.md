@@ -8,6 +8,11 @@
 警告：使用本脚本可能导致账号封禁、IP地址限制或其他平台处罚。作者对任何此类后果不承担责任，请勿在任何环境中部署或运行。
 本脚本基于MIT许可协议开源。任何二次修改、衍生开发或使用，均须明确标注原作者信息，并以相同许可协议开放源代码。严禁用于商业目的或进行私有化修改。
 
+## 一些展示图片
+<img width="1034" height="701" alt="image" src="https://github.com/user-attachments/assets/53908d19-f41f-46ff-9db6-b04259881124" />
+<img width="500" height="431" alt="image" src="https://github.com/user-attachments/assets/3fc9190c-bb8f-41bb-bc9f-49c637362117" />
+
+
 ## 功能特性
 
 - 🗺️ **地图集成**：自动解密百度/腾讯坐标并在百度地图上显示位置（需自行申请百度API_KEY）
